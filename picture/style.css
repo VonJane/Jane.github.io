@@ -1,7 +1,7 @@
 body{
 	font-family:"Helvetica","Arial",serif;
-	color:#ffffff;
-	background-color:#c0c0c0;
+	//color:#ffffff;
+	//background-color:#c0c0c0;
 	margin: 1em 10%;
 }
 h1{
@@ -39,4 +39,8 @@ p{
 	font-family: "微软雅黑";
 	font-weight: bold;
 	color:  #398439;
+}
+#placeholder,
+#description{
+	margin-left:50px;
 }
